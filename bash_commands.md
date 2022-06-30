@@ -2,7 +2,7 @@
 
 ## System Operations
 
-    	uname -a 						Show system and kernel
+	uname -a						Show system and kernel
 	uptime							Show uptime
 	whoami							Show username
 	head -n1 /etc/issue					Show distribution
