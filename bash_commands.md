@@ -11,8 +11,8 @@
 ## File commands
 
    	ls							List directory
-    	ls -al							Formatted listing with hidden files
-    	ls -lrt							Formatted listing sorted by newest bottom
+	ls -al							Formatted listing with hidden files
+	ls -lrt							Formatted listing sorted by newest bottom
 	pwd							Show current directory
 	mkdir dir						Create directory dir
 	rm file							Delete file
